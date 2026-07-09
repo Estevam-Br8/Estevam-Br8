@@ -59,5 +59,5 @@ Atualmente como **Analista de Planejamento Júnior**, atuo na ponta de ponta a p
 - 📧 **E-mail:** brlucasestevam@gmail.com
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Estevam-Br8&show_icons=true&theme=radial&include_all_commits=true&count_private=true" alt="Lucas's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.com/api?username=Estevam-Br8&show_icons=true&theme=dark&rank_icon=github&count_private=true" alt="Lucas's GitHub Stats" />
 </p>
